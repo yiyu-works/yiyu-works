@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Yiyu Works</title>
+  <desc id="desc">An ivory and forest green banner with three abstract workflow cards. Small tools. Thoughtful workflows.</desc>
+  <rect width="1200" height="350" rx="20" fill="#f4f2eb"/>
+  <path d="M48 48H1152" stroke="#deded2"/>
+  <text x="56" y="81" fill="#53675d" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">TOOLS / SKILLS / WORKFLOWS</text>
+  <text x="52" y="180" fill="#183d30" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-4">Yiyu Works</text>
+  <text x="56" y="230" fill="#53675d" font-family="Arial, Helvetica, sans-serif" font-size="23">Small tools. Thoughtful workflows.</text>
+  <path d="M56 276H114" stroke="#183d30" stroke-width="3"/>
+  <text x="129" y="281" fill="#53675d" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">CRAFTED WITH INTENT</text>
+  <g transform="translate(790 89)">
+    <rect x="-26" y="41" width="161" height="177" rx="15" fill="#dce4d7" transform="rotate(-11 54 128)"/>
+    <rect x="144" y="-2" width="160" height="178" rx="15" fill="#e4e1cb" transform="rotate(9 224 87)"/>
+    <rect x="58" y="21" width="171" height="194" rx="15" fill="#183d30"/>
+    <circle cx="88" cy="51" r="5" fill="#c4d8a6"/>
+    <path d="M88 86H196M88 102H160" stroke="#f4f2eb" stroke-width="5" stroke-linecap="round"/>
+    <rect x="87" y="130" width="112" height="55" rx="8" fill="#315746"/>
+    <path d="M105 157L121 171L146 145M157 160H182" fill="none" stroke="#c4d8a6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
